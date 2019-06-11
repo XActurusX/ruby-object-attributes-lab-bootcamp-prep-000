@@ -4,7 +4,6 @@ class Person
          @name = with_names
        end
 
-
        def name
          @name
        end 
